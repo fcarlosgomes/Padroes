@@ -1,0 +1,33 @@
+
+PADRÃO GoF ADAPTER
+
+1.1 Objetivo
+“Converte a interface de uma classe em outra interface esperada pelos clientes. O Adapter
+permite que certas classes trabalhem em conjunto, pois de outra forma seria impossível por
+causa de suas interfaces incompatíveis.
+[…] Também chamado de Wrapper.”
+[GAMMA-et-al-2000, 140]
+
+Faz acoplamento de diferentes interfaces.
+
+Ver também: [GUERRA-2013], p. 114.
+
+http://www.oodesign.com/adapter-pattern.html
+The classes/objects participating in adapter pattern:
+Target - defines the domain-specific interface that Client uses.
+Adapter - adapts the interface Adaptee to the Target interface.
+Adaptee - defines an existing interface that needs adapting.
+Client - collaborates with objects conforming to the Target interface.
+
+
+ver também: .\Projetos\Pessoa\ContraChequeFuncionario
+
+__________________________________________________________________________
+Funcionario - Empregado
+https://www.dropbox.com/sh/8q285i6vuuur36s/AABGqjiCvNUsvnaQI3Uby77ga?dl=0
+
+Ducks
+https://www.dropbox.com/sh/ik41zqz4fcgpnt4/AADf1JhoQPV03aNRqLjjOKCda?dl=0
+
+Outros (Navegador/Navigator, Plugues)
+https://www.dropbox.com/sh/f6ai571ew1jcxpa/AABElnrBbSnAK88FpnwcQUXCa?dl=0

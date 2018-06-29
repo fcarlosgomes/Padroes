@@ -1,0 +1,4 @@
+﻿
+
+REFERÊNCIA
+PANKAJ. Adapter Design Pattern in Java. JournalDev. Disponível em <http://www.journaldev.com/1487/adapter-design-pattern-java>. Acesso em: 20 set. 2016.

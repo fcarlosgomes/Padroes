@@ -1,0 +1,18 @@
+
+Intent
+
+    Convert the interface of a class into another interface clients expect.
+    Adapter lets classes work together, that could not otherwise because of incompatible interfaces.
+
+
+The classes/objects participating in adapter pattern:
+
+    Target - defines the domain-specific interface that Client uses.
+    Adapter - adapts the interface Adaptee to the Target interface.
+    Adaptee - defines an existing interface that needs adapting.
+    Client - collaborates with objects conforming to the Target interface.
+
+
+REFERENCIAS:
+http://www.oodesign.com/adapter-pattern.html
+

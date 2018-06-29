@@ -1,0 +1,9 @@
+O objetivo do padrão Adapter é:
+
+(  ) Converter a interface de uma classe em outros atributos
+(  ) Converter os métodos de uma classe em seus atributos
+(  ) Converter a interface de uma classe em outra interface
+(  ) Converter os atributos de uma classe para outra classe
+(  ) Converter os métodos de uma classe para outra classe
+(  ) Converter os parâmetros de um método em seus atributos
+(  ) Converter a interface de uma classe em outra classe

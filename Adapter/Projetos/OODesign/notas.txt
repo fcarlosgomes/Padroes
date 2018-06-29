@@ -1,0 +1,6 @@
+
+
+REFERENCIAS:
+http://www.oodesign.com/adapter-pattern.html
+
+

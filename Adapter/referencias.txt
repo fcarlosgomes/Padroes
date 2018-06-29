@@ -1,0 +1,45 @@
+﻿
+REFERÊNCIAS
+
+REFERÊNCIAS BÁSICAS
+
+GUERRA, Eduardo. Design Patterns. Projeto orientado a objetos guiados por padrões. São Paulo:
+Casa do Código, 2013.
+
+GAMMA, Erich; HELM, Richard; JOHNSON, Ralph. VLISSIDES, John. Padrões de Projeto.
+Soluções reutilizáveis de software orientado a objetos. Porto Alegre: Bookman, 2000.
+
+
+OUTRAS REFERÊNCIAS
+
+BURRIS, Eddie. Adapter. Disponível em: <http://sce2.umkc.edu/BIT/burrise/pl/design-patterns/Adapter.pdf>. Acesso em: 19 mar. 2018.
+BURRIS, Eddie. Software Engineering Lecture Notes. Disponível em: <http://sce2.umkc.edu/BIT/burrise/pl/>. Acesso em: 19 mar. 2018.
+CHAUHAN, Shailendra. Adapter Design Pattern - C#. In: DotNetTricks. Disponível em: <http://www.dotnettricks.com/learn/designpatterns/adapterdesign-pattern-dotnet>. Acesso em: 23 Fev. 2017.
+CODEPLEX. Adapter. In: Tutorial: Common Design Patterns in C# 4.0. Disponível em: <https://csharpdesignpatterns.codeplex.com/wikipage?title=Adapter%20Pattern&referringTitle=Home>. Acesso em: 24 Fev. 2017.
+CONCEPTF1. Design Patterns : Adapter Pattern - Be Adaptive. Disponível em: <http://conceptf1.blogspot.com.br/2016/02/adapter-designpattern.html>. Acesso em: 23 Fev. 2017.
+CUNNINGHAM, Ward. Wiki Wiki Web. Adapter Pattern. Disponível em: <http://wiki.c2.com/?AdapterPattern>. Acesso em: 23 Fev. 2017.
+DOFACTORY. Adapter. Disponível em: <http://www.dofactory.com/net/adapter-design-pattern>. Acesso em: 23 Fev.2017.
+ERIKSSON, Deron. Adapter Pattern. Disponível em: <http://www.avajava.com/tutorials/lessons/adapter-pattern.html>. Acesso em: 23 Fev. 2017.
+FREEMAN, Eric; FREEMAN, Elisabeth. Use a Cabeça! Padrões de Projetos. 2. ed. Rio de Janeiro: Alta Books, 2007. p. 178.
+GAMMA, Erich; HELM, Richard; JOHNSON, Ralph. VLISSIDES, John. Padrões de Projeto. Soluções reutilizáveis de software orientado a objetos. Porto Alegre: Bookman, 2000. p. 140.
+GEEKSFORGEEKS. Adapter Pattern. Disponível em: <http://www.geeksforgeeks.org/adapter-pattern/>. Acesso em: 23 Fev. 2017.
+GUERRA, Eduardo. Design Patterns. Projeto orientado a objetos guiados por padrões. São Paulo: Casa do Código, 2013. p. 114.
+HORSTMANN, Cay. Padrões e Projetos Orientados a Objetos. Porto Alegre: Bookman, 2007. p. 384.
+HUSTON, Vince. Adapter. In: OO design, Java, C++. Disponível em: <http://www.vincehuston.org/dp/adapter.html>. Acesso em: 23 Fev. 2017.
+JAVA2BLOG. Adapter design pattern in java. Disponível em: <http://www.java2blog.com/2012/09/adapter-design-pattern-in-java.html>. Acesso em: 24 Fev. 2017.
+MATOS, David Martins de. Adapter Pattern (padrão de desenho)/Patos e Perus. Disponível em: <https://www.l2f.inescid.pt/~david/w/pt/Adapter_Pattern_(padr%C3%A3o_de_desenho)/Patos_e_Perus>. Acesso em: 23 Fev. 2017.
+METSKER, Steven John. Padrões de Projeto em Java. Porto Alegre: Bookman, 2004. p. 35.
+OODesign. Adapter Pattern. Disponível em: <http://www.oodesign.com/adapter-pattern.html>. Acesso em: 23 Fev. 2017.
+PANKAJ. Adapter Design Pattern in Java. Disponível em: <http://www.journaldev.com/1487/adapter-design-pattern-java>. Acesso em: 23 Fev. 2017.
+PARRY,Shaun. Wrapper Design Pattern. Disponível em: <http://www.castle-cadenza.demon.co.uk/wrapper.htm>. Acesso em: 23 Fev. 2017.
+SHALLOWAY, Alan. TROTT, James R. Design Patterns Explained: A New Perspective on Object-Oriented Design. Addison-Wesley, 2004. p. 113.
+SOURCE MAKING. Adapter. Disponível em: <https://sourcemaking.com/design_patterns/adapter>. Acesso em: 23 Fev. 2017.
+SUGRUE, James. Adapter Pattern Tutorial with Java Examples. Dzone. Disponível em: <https://dzone.com/articles/design-patterns-uncovered-0>. Acesso em: 23 Fev. 2017.
+TUTORIALSPOINT. Design Patterns - Adapter Pattern. Disponível em: <https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm>. Acesso em: 23 Fev. 2017.
+VOGEL, Lars. Adapter Design Pattern in Java – Tutorial. Disponível em: <http://www.vogella.com/tutorials/DesignPatternAdapter/article.html>. Acesso em: 23 Fev. 2017.
+WIKIPEDIA. Adapter pattern. Disponível em: <https://en.wikipedia.org/wiki/Adapter_pattern>. Acesso em: 23 Fev. 2017.
+SOURCEMAKING. Adapter. https://sourcemaking.com/design_patterns/adapter. Acesso em: 10 Mar.2017.
+SOURCEMAKING. Adapter_1-2x.png. https://sourcemaking.com/files/v2/content/patterns/Adapter_1-2x.png. Acesso em: 10 Mar. 2017.
+SOURCEMAKING. Adapter-2x.png. https://sourcemaking.com/files/v2/content/patterns/Adapter-2x.png. Acesso em: 10 Mar. 2017.
+OODESIGN. adapter-pattern. OOdesignhttp://www.oodesign.com/adapter-pattern.html. Acesso em: 10 Mar. 2017.
+OODESIGN. adapter-pattern.png http://www.oodesign.com/images/structural/adapter-pattern.png. Acesso em: 10 Mar. 2017.

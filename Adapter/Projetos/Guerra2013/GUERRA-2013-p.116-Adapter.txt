@@ -1,0 +1,5 @@
+﻿Nesse diagrama temos uma classe 'Cliente' que depende de alguma forma
+de uma 'InterfaceAlvo'. Sendo assim, para tornar possível ela acessar uma
+classe 'Adaptada' que não implementa essa abstração, ela precisa utilizar a classe
+'Adaptador', que irá receber chamadas de método conforme a 'InterfaceAlvo' e
+irá chamar os métodos correspondentes na classe 'Adaptada'.

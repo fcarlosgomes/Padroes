@@ -1,0 +1,5 @@
+
+Referencias:
+
+GUERRA, Eduardo. Design Patterns. Projeto orientado a objetos guiados por padrões.
+ São Paulo: Casa do Código, 2013. p. 114-117.

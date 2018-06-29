@@ -1,0 +1,14 @@
+
+
+PROJETO CONTRACHEQUE-FUNCIONARIO - EXERCICIO
+
+1) Criar um novo projeto Java a partir do projeto Contracheque-Funcionario:
+
+1.1) Estude os seguintes projetos UML e JAVA:
+	Versao1-uml   https://www.dropbox.com/s/732hi2ejrm219ix/Versao1-uml.jpg?dl=0
+	Versao1-Java  https://www.dropbox.com/sh/dknx4h2enrvpcbs/AAC9YuVsPqf_nkkIB-zb7_tha?dl=0
+
+	Versao2-uml   https://www.dropbox.com/s/91em0hd62s27z8b/Versao2-uml.jpg?dl=0
+
+	
+1.2) A partir do estudo destes elementos, faça o projeto Java da UML versão 2.
